@@ -23,27 +23,16 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/MyProfile/). Senior 
 **Languages and Tools:**  
 
 <code><img height="20" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code> 
-
 <code><img height="20" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
-
 <code><img height="20" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
-
 <code><img height="20" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
-
 <code><img height="20" alt="react" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/react.png"></code>
-
 <code><img height="20" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
-
 <code><img height="20" alt="firebase" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png"></code>
-
 <code><img height="20" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
-
 <code><img height="20" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
-
 <code><img height="20" alt="c#" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/csharp.png"></code>
-
 <code><img height="20" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
-
 <code><img height="20" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
 
 
