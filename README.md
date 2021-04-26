@@ -1,16 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/lucasjappert1">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/lucasjappert/">
-  <img align="left" alt="Lucas Jappert's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Lucas Jappert's LinkedIN" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Lucas Jappert's Discord" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/discord.svg" />
+</a>
+<a href="https://www.facebook.com/GringoRamona/">
+  <img align="left" alt="Lucas Jappert's Facebook" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Facebook.png" />
+</a>
+<a href="https://www.instagram.com/lucasjappert/">
+  <img align="left" alt="Lucas Jappert's Instagram" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Instagram.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasjappert.lucasjappert)
