@@ -25,7 +25,7 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/MyProfile/). Senior 
 <code><img height="20" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code>
 <code><img height="20" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
 <code><img height="20" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
-<code><img height="20" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css3.png"></code>
+<code><img height="20" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
 <code><img height="20" alt="react" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/react.png"></code>
 <code><img height="20" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
 <code><img height="20" alt="firebase" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png"></code>
