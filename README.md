@@ -22,7 +22,8 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/MyProfile/). Senior 
 
 **Languages and Tools:**  
 
-<code><img height="20" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code>
+<code><img height="20" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code> Javascript
+<br />
 <code><img height="20" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
 <code><img height="20" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
 <code><img height="20" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
