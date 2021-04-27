@@ -23,6 +23,8 @@
 
 Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/MyProfile/). Senior Web Developer with over 14 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, JavaScript, JQuery, Vue JS, Firebase, SQL Server, .NET. Strong background in management and leadership.
 
+---
+
 **Languages and Tools:**  
 
 <code><img height="40" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code> 
@@ -38,8 +40,7 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/MyProfile/). Senior 
 <code><img height="40" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
 <code><img height="40" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
 
-
-📈 My GitHub Stats
+---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucasjappert&show_icons=true&theme=gotham" alt="lucasjappert" />
 
