@@ -2,16 +2,19 @@
 
 
 <a href="https://www.linkedin.com/in/lucasjappert/">
-  <img align="left" alt="Lucas Jappert's LinkedIN" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/linkedin.svg" />
+  <img align="center" alt="Lucas Jappert's LinkedIN" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/linkedin.svg" />
 </a>
 <a href="https://discord.gg/Marty#1533">
-  <img align="left" alt="Lucas Jappert's Discord" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/discord.svg" />
+  <img align="center" alt="Lucas Jappert's Discord" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/discord.svg" />
 </a>
 <a href="https://www.facebook.com/GringoRamona/">
-  <img align="left" alt="Lucas Jappert's Facebook" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Facebook.png" />
+  <img align="center" alt="Lucas Jappert's Facebook" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Facebook.png" />
 </a>
 <a href="https://www.instagram.com/lucasjappert/">
-  <img align="left" alt="Lucas Jappert's Instagram" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Instagram.png" />
+  <img align="center" alt="Lucas Jappert's Instagram" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Instagram.png" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=543492412021">
+  <img align="center" alt="Lucas Jappert's Whatsapp" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/whatsapp.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasjappert.lucasjappert)
