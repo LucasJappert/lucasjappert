@@ -39,6 +39,10 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/MyProfile/). Senior 
 <code><img height="40" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
 
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucasjappert&show_icons=true&theme=gotham" alt="lucasjappert" />
+
 
 <!--
 **LucasJappert/lucasjappert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
