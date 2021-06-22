@@ -31,8 +31,8 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/myprofile/). Senior 
 <code><img height="40" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
 <code><img height="40" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
 <code><img height="40" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
-<code><img height="40" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
-<code><img height="40" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/jest.png"></code>
+<code><img height="40" title="Node" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
+<code><img height="40" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Jest.png"></code>
 <code><img height="40" alt="SQL Server" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png"></code>
 <code><img height="40" alt="xUnit" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/xUnit.png"></code>
 <code><img height="40" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
