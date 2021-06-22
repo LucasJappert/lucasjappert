@@ -27,21 +27,21 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/myprofile/). Senior 
 
 **Languages and Tools:**  
 
-<code><img height="40" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code> 
-<code><img height="40" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
-<code><img height="40" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
-<code><img height="40" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
-<code><img height="40" title="Node" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
-<code><img height="40" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Jest.png"></code>
-<code><img height="40" alt="SQL Server" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png"></code>
-<code><img height="40" alt="xUnit" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/xUnit.png"></code>
-<code><img height="40" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
-<code><img height="40" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
-<code><img height="40" alt="c#" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/csharp.png"></code>
-<code><img height="40" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
-<code><img height="40" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
-<code><img height="40" alt="react" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/react.png"></code>
-<code><img height="40" alt="firebase" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png"></code>
+<code><img height="40" title="Javascript" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code> 
+<code><img height="40" title="Vue.js" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
+<code><img height="40" title="HTML" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
+<code><img height="40" title="CSS3" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
+<code><img height="40" title="Node.js" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
+<code><img height="40" title="Jest" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Jest.png"></code>
+<code><img height="40" title="SQL Server" alt="SQL Server" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png"></code>
+<code><img height="40" title="xUnit" alt="xUnit" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/xUnit.png"></code>
+<code><img height="40" title="Visual Studio" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
+<code><img height="40" title="VS Code" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
+<code><img height="40" title="C#" alt="c#" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/csharp.png"></code>
+<code><img height="40" title="Visual Basic" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
+<code><img height="40" title="Git" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
+<code><img height="40" title="React" alt="react" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/react.png"></code>
+<code><img height="40" title="Firebase" alt="firebase" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png"></code>
 
 ---
 
