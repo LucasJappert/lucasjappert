@@ -27,21 +27,22 @@ Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/myprofile/). Senior 
 
 **Languages and Tools:**  
 
-<code><img height="60" title="Javascript" alt="javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/javascript.png"></code> 
-<code><img height="60" title="Vue.js" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
-<code><img height="60" title="HTML" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
-<code><img height="60" title="CSS3" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
-<code><img height="60" title="Node.js" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
-<code><img height="60" title="Jest" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Jest.png"></code>
-<code><img height="60" title="SQL Server" alt="SQL Server" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png"></code>
-<code><img height="60" title="xUnit" alt="xUnit" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/xUnit.png"></code>
-<code><img height="60" title="Visual Studio" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
-<code><img height="60" title="VS Code" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
-<code><img height="60" title="C#" alt="c#" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/csharp.png"></code>
-<code><img height="60" title="Visual Basic" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
-<code><img height="60" title="Git" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
-<code><img height="60" title="React" alt="react" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/react.png"></code>
-<code><img height="60" title="Firebase" alt="firebase" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png"></code>
+<code><img height="50" title="Javascript" alt="Javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/js.png"></code> 
+<code><img height="50" title="Typescript" alt="Typescript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/ts.png"></code> 
+<code><img height="50" title="Vue.js" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
+<code><img height="50" title="HTML" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
+<code><img height="50" title="CSS3" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
+<code><img height="50" title="Node.js" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
+<code><img height="50" title="Jest" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Jest.png"></code>
+<code><img height="50" title="SQL Server" alt="SQL Server" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png"></code>
+<code><img height="50" title="xUnit" alt="xUnit" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/xUnit.png"></code>
+<code><img height="50" title="Visual Studio" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
+<code><img height="50" title="VS Code" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
+<code><img height="50" title="C#" alt="c#" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/csharp.png"></code>
+<code><img height="50" title="Visual Basic" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
+<code><img height="50" title="Git" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
+<code><img height="50" title="React" alt="react" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/react.png"></code>
+<code><img height="50" title="Firebase" alt="firebase" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png"></code>
 
 ---
 
