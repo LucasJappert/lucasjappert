@@ -6,9 +6,6 @@
 <a href="https://discord.gg/Marty#1533">
   <img align="left" alt="Lucas Jappert's Discord" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/discord.svg" />
 </a>
-<a href="https://www.facebook.com/GringoRamona/">
-  <img align="left" alt="Lucas Jappert's Facebook" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Facebook.png" />
-</a>
 <a href="https://www.instagram.com/lucasjappert/">
   <img align="left" alt="Lucas Jappert's Instagram" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Instagram.png" />
 </a>
