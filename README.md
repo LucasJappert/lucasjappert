@@ -1,5 +1,4 @@
-### Hey there  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+### Hello there!!! 👋 
 
 <a href="https://www.linkedin.com/in/lucasjappert/">
   <img align="left" alt="Lucas Jappert's LinkedIN" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/linkedin.svg" />
@@ -20,7 +19,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasjappert.lucasjappert)
 
 <br />
-Hello there!!! 👋
 My name is [Lucas Jappert](https://lucasjappert.github.io/myprofile/). My career started around 2008 and I always liked working on the backend as well as the frontend.
 Although there are many technologies that I have worked with, today I am fascinated with javascript and typescript, using Vuejs for everything that involves the frontend and nodejs + express for the backend.
 I believe that javascript has always been a very powerful tool with which any type of application can be created (desktop, mobile, API, browser extensions, etc.), and that it surely still has a great future. Regarding my personality, I am a person who can adapt to any type of work, as well as bring great values and knowledge to the team.
