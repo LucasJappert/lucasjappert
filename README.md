@@ -20,8 +20,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasjappert.lucasjappert)
 
 <br />
-
-Hello! I’m [Lucas Jappert](https://lucasjappert.github.io/myprofile/). Senior Web Developer with over 14 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, JavaScript, Node JS, JQuery, Vue JS, Firebase, SQL Server, .NET. Strong background in management and leadership.
+Hello there!!! 👋
+My name is [Lucas Jappert](https://lucasjappert.github.io/myprofile/). My career started around 2008 and I always liked working on the backend as well as the frontend.
+Although there are many technologies that I have worked with, today I am fascinated with javascript and typescript, using Vuejs for everything that involves the frontend and nodejs + express for the backend.
+I believe that javascript has always been a very powerful tool with which any type of application can be created (desktop, mobile, API, browser extensions, etc.), and that it surely still has a great future. Regarding my personality, I am a person who can adapt to any type of work, as well as bring great values and knowledge to the team.
 
 ---
 
