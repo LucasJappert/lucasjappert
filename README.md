@@ -9,9 +9,6 @@
 <a href="https://www.instagram.com/lucasjappert/">
   <img align="left" alt="Lucas Jappert's Instagram" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Instagram.png" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=543492412021">
-  <img align="left" alt="Lucas Jappert's Whatsapp" width="22px" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/WhatsApp.png" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasjappert.lucasjappert)
 
