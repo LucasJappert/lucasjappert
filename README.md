@@ -12,11 +12,17 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasjappert.lucasjappert)
 
+👋 Hello, welcome to my profile! I'm a seasoned software developer with a passion for technology and innovation. With over a decade of experience in the field, I've had the opportunity to work with a variety of technologies, but there are a few that truly resonate with me.
 
-My name is [Lucas Jappert](https://lucasjappert.github.io/myprofile/).  
-My career started around 2008 and I always liked working on the backend as well as the frontend.  
-Although there are many technologies that I have worked with, today I am fascinated with **javascript** and **typescript**, using **Vuejs** for everything that involves the frontend and **nodejs + express** for the backend.  
-I believe that javascript has always been a very powerful tool with which any type of application can be created (desktop, mobile, API, browser extensions, etc.), and that it surely still has a great future. Regarding my personality, I am a person who can adapt to any type of work, as well as bring great values and knowledge to the team.
+💻 My tech stack of choice includes TypeScript, Python, Node.js, and Vue.js. These are not just tools for me; they're my trusted companions in turning ideas into reality and crafting elegant solutions to complex problems.
+
+🚀 Since embarking on my journey as a developer back in 2008, I've remained deeply engaged with the evolving landscape of technology. I thrive on challenges and am constantly seeking out new opportunities to learn and grow. Whether it's diving into cutting-edge frameworks or exploring emerging trends, I'm always eager to expand my skill set and stay ahead of the curve.
+
+💡 What excites me most about technology is its potential to drive meaningful change and make a positive impact on the world. I'm a firm believer in the power of innovation to address society's most pressing challenges and am committed to leveraging my expertise to contribute to this ongoing transformation.
+
+🔍 I'm currently seeking new opportunities where I can apply my expertise, tackle exciting challenges, and collaborate with like-minded individuals who share my passion for pushing the boundaries of what's possible.
+
+Let's connect and explore how we can work together to create something extraordinary!
 
 ---
 
