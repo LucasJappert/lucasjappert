@@ -22,17 +22,18 @@ I believe that javascript has always been a very powerful tool with which any ty
 
 **Languages and Tools:**  
 
+<code><img height="50" title="Python" alt="Python" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/python.png"></code> 
 <code><img height="50" title="Javascript" alt="Javascript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/js.png"></code> 
 <code><img height="50" title="Typescript" alt="Typescript" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/ts.png"></code> 
 <code><img height="50" title="Vue.js" alt="vue" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png"></code>
+<code><img height="50" title="Node.js" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
+<code><img height="50" title="VS Code" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
 <code><img height="50" title="HTML" alt="html" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/html.png"></code>
 <code><img height="50" title="CSS3" alt="css3" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/css.png"></code>
-<code><img height="50" title="Node.js" alt="node" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png"></code>
 <code><img height="50" title="Jest" alt="Jest" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/Jest.png"></code>
 <code><img height="50" title="SQL Server" alt="SQL Server" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png"></code>
 <code><img height="50" title="xUnit" alt="xUnit" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/xUnit.png"></code>
 <code><img height="50" title="Visual Studio" alt="visualstudio" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visual-studio-2019.png"></code>
-<code><img height="50" title="VS Code" alt="visualcode" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/visualcode.png"></code>
 <code><img height="50" title="C#" alt="c#" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/csharp.png"></code>
 <code><img height="50" title="Visual Basic" alt="visual basic" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vb.png"></code>
 <code><img height="50" title="Git" alt="git" src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png"></code>
