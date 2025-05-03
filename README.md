@@ -2,8 +2,6 @@
 
 ## 🚀 Welcome to My GitHub!  
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lucasjappert&count_bg=%237A28FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)  
-
 ---
 
 ### 🖖 Hi, I'm <span style="color: magenta;">Lucas Jappert!</span>
@@ -12,7 +10,7 @@
 
 🔬 I believe in **innovation**, leveraging AI and automation to **push the boundaries** of what's possible. 
 
-🎮 Currently developing **Nova RPG**, a **MMORPG** built with **MonoGame**, featuring **procedural world generation**, **AI-driven interactions**, and an **immersive multiplayer experience**.
+🎮 Currently developing **Nova RPG**, a **MMORPG** built with **Godot 4.4**, featuring **procedural world generation**, **AI-driven interactions**, and an **immersive multiplayer experience**.
 
 🌍 Enthusiastic about **data science, AI research, and open-source contributions**.
 
@@ -26,7 +24,7 @@
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png" height="50" alt="Vue.js" title="Vue.js" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png" height="50" alt="Node.js" title="Node.js" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png" height="50" alt="SQL Server" title="SQL Server" style="filter: hue-rotate(290deg)"/>
-  <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/monogame.png" height="50" alt="MonoGame" title="MonoGame" style="filter: hue-rotate(290deg)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="50" alt="Godot" title="Godot 4.4" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png" height="50" alt="Git" title="Git" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png" height="50" alt="Firebase" title="Firebase" style="filter: hue-rotate(290deg)"/>
 </div>
