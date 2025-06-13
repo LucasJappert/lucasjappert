@@ -19,12 +19,12 @@
 ## 🎨 Aesthetic & Tech Stack  
 
 <div align="center" style="background-color:#0a0a0a; padding: 15px; border-radius: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="50" alt="Godot" title="Godot 4.4" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/python.png" height="50" alt="Python" title="Python" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/ts.png" height="50" alt="TypeScript" title="TypeScript" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/vue.png" height="50" alt="Vue.js" title="Vue.js" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/node.png" height="50" alt="Node.js" title="Node.js" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/sql.png" height="50" alt="SQL Server" title="SQL Server" style="filter: hue-rotate(290deg)"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="50" alt="Godot" title="Godot 4.4" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/git.png" height="50" alt="Git" title="Git" style="filter: hue-rotate(290deg)"/>
   <img src="https://github.com/LucasJappert/lucasjappert/blob/main/images/firebase.png" height="50" alt="Firebase" title="Firebase" style="filter: hue-rotate(290deg)"/>
 </div>
