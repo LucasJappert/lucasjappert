@@ -56,5 +56,5 @@ Arquitectura y producto en Agroideas: `api-core`, Agroideas-In, APIX (satélite 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasJappert&show_icons=true&hide_border=true&bg_color=05060d&title_color=00e8ff&icon_color=2ee8b8&text_color=c4d0e4&ring_color=22e884" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=LucasJappert&show_icons=true&hide_border=true&bg_color=05060d&title_color=00e8ff&icon_color=2ee8b8&text_color=c4d0e4&ring_color=22e884" height="150" alt="GitHub Stats" />
 </p>
