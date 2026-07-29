@@ -1,5 +1,3 @@
-**[English](#english)** · **[Español](#español)**
-
 # Lucas Jappert
 
 **Full Stack Engineering Lead** · Rafaela, Argentina
@@ -33,7 +31,8 @@ Engineering Lead with **15+ years** building software end to end. I lead the dig
 
 Architecture and product for Agroideas: `api-core`, Agroideas-In, APIX (satellite / GEE, YOLOv8), sprint-it. CI/CD on Azure, code review on every PR.
 
----
+<details>
+<summary><strong>Español</strong></summary>
 
 ## Español
 
@@ -51,6 +50,8 @@ Engineering Lead con **15+ años** construyendo software de punta a punta. Dirij
 ### En el trabajo
 
 Arquitectura y producto en Agroideas: `api-core`, Agroideas-In, APIX (satélite / GEE, YOLOv8), sprint-it. CI/CD en Azure, code review en cada PR.
+
+</details>
 
 ---
 
